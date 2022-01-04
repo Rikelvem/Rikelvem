@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/Rikelvem">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rikelvem&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikelvem&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rikelvem&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikelvem&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -23,8 +23,8 @@
 ### De uma 👀 meus últimos projetos!
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=rikelvem&repo=gamehouse&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=rikelvem&repo=universe&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=rikelvem&repo=gamehouse&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=rikelvem&repo=universe&theme=vision-friendly-dark"/>
 </div>
 
   ##
