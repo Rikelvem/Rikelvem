@@ -2,7 +2,7 @@
 
 - 📚 Eu estou aperfeiçoando minhas habilidades em React.JS
 - 🌴 Eu moro em São Paulo - SP
-- 🔍 Eu estou buscando vagas de Desenvolvedor | Front-End
+- 🔍 Eu estou buscando vagas de Desenvolvedor | Full Stack
 
 
 <div align="center">
