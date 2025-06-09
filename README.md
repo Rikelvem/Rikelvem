@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Rikelvem Silva! 😁
 
-- 📚 Eu estou aperfeiçoando minhas habilidades em Node.JS
+- 📚 Eu estou aperfeiçoando minhas habilidades em Java
 - 🌴 Eu moro em São Paulo - SP
-- 🔍 Eu estou buscando vagas de Desenvolvedor | Full Stack
 
 
 <div align="center">
